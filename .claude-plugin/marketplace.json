@@ -1,0 +1,41 @@
+{
+  "name": "cc-plugin-samples",
+  "owner": {
+    "name": "kenshin579",
+    "url": "https://github.com/kenshin579"
+  },
+  "metadata": {
+    "description": "실용적인 Claude Code Plugin 모음 - 보안, 코드 품질, Git 워크플로우, 보안 스캐너",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "safe-guard",
+      "source": "./plugins/safe-guard",
+      "description": "위험 명령 차단 및 민감 파일 보호 Plugin",
+      "version": "1.0.0",
+      "tags": ["security", "hooks", "protection"]
+    },
+    {
+      "name": "code-quality",
+      "source": "./plugins/code-quality",
+      "description": "자동 린팅 및 코드 리뷰 Plugin",
+      "version": "1.0.0",
+      "tags": ["lint", "review", "quality", "mcp"]
+    },
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "Git 커밋, PR, 브랜치 워크플로우 자동화 Plugin",
+      "version": "1.0.0",
+      "tags": ["git", "workflow", "automation", "mcp"]
+    },
+    {
+      "name": "security-scanner",
+      "source": "./plugins/security-scanner",
+      "description": "보안 취약점 스캔 및 시크릿 탐지 Plugin",
+      "version": "1.0.0",
+      "tags": ["security", "audit", "scanner"]
+    }
+  ]
+}
