@@ -1,0 +1,8 @@
+{
+  "name": "git-workflow",
+  "description": "Git 커밋 메시지 생성, PR 생성, 브랜치 상태 확인 자동화 Plugin",
+  "version": "1.0.0",
+  "author": { "name": "kenshin579", "url": "https://github.com/kenshin579" },
+  "repository": "https://github.com/kenshin579/claude-code-plugin-sample",
+  "license": "MIT"
+}

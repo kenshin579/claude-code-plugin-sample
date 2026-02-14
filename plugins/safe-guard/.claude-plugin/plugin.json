@@ -1,0 +1,8 @@
+{
+  "name": "safe-guard",
+  "description": "위험 명령 차단 및 민감 파일 보호 - PreToolUse Hook으로 rm -rf, force push, DROP TABLE 등을 차단하고 .env, credentials 파일 수정을 방지",
+  "version": "1.0.0",
+  "author": { "name": "kenshin579", "url": "https://github.com/kenshin579" },
+  "repository": "https://github.com/kenshin579/claude-code-plugin-sample",
+  "license": "MIT"
+}
