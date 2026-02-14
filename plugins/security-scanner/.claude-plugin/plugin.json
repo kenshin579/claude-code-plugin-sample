@@ -1,0 +1,8 @@
+{
+  "name": "security-scanner",
+  "description": "코드베이스의 보안 취약점 스캔 - 시크릿 탐지, OWASP Top 10 검사, 의존성 보안 확인",
+  "version": "1.0.0",
+  "author": { "name": "kenshin579", "url": "https://github.com/kenshin579" },
+  "repository": "https://github.com/kenshin579/claude-code-plugin-sample",
+  "license": "MIT"
+}
