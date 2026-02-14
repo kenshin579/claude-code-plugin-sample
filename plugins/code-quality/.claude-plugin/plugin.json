@@ -1,0 +1,8 @@
+{
+  "name": "code-quality",
+  "description": "파일 저장 후 자동 린팅, 코드 리뷰 Skill 및 리뷰 전문 Agent 제공",
+  "version": "1.0.0",
+  "author": { "name": "kenshin579", "url": "https://github.com/kenshin579" },
+  "repository": "https://github.com/kenshin579/claude-code-plugin-sample",
+  "license": "MIT"
+}
